@@ -1,0 +1,168 @@
+*{
+  font-family: 'roboto';
+  margin:0;
+}
+.container{
+  display:flex;
+  flex-direction: column;
+  
+}
+.container-item1{
+  background-color: #1F2937;
+  color:#fff;
+  
+}
+#hero-main{
+font-size: 48px;
+color: #F9FAF8;
+font-weight: 900;
+width: 25%;
+
+
+}
+#hero-second{
+  font-size: 18px;
+  color:#E5E7EB ;
+  width: 37%;
+}
+#header-img{
+position: absolute;
+top:70px;
+left:50%;
+height: 250px;
+width: 500px;
+
+
+}
+ul{
+  position: absolute;
+  display: flex;
+  gap:20px;
+  right: 100px;
+  top:15px;
+}
+li{
+  list-style: none;
+  color: black;
+  font-size: 24px;
+}
+#logo{
+  font-size: 24px;
+  color: #F9FAF8;
+  text-shadow: 10px 5px 4px grey;
+}
+#logo , #header-btn, h2,h4{
+  margin:20px 100px;
+}
+#header-btn{
+  border: 0;
+  border-radius: 10px;
+  padding: 10px 35px;
+  color: #FFF;
+  position: relative;
+  margin-bottom: 40px;
+}
+.container-item1 li a{
+  text-decoration: none;
+  color: #E5E7EB;
+  font-size: 18px;
+  
+}
+/* .container-item2{
+  background-color: #7e1f55;
+  color:#fff;
+} */
+
+.container-item3{
+  background-color: #E5E7EB;
+  text-align: center;
+
+}
+#quote, #author{
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 300;
+  color: #1F2937;
+  padding: 30px 300px;
+}
+#author{
+
+  font-weight: 900;
+  font-size: 26px;
+  margin-left: 42%;
+}
+
+.container-item5{
+  background-color: #1F2937;
+  color:#fff;
+
+}
+button{
+  background-color:#3882F6;
+}
+.container-1{
+  display: flex;
+  gap:90px;
+  margin: 0px 80px ;
+  
+}
+.container-item2 .container-1 div{
+  border: 4px solid blue;
+  border-radius: 10px; 
+  height: 30vh;
+  width: 30vw;
+ 
+}
+img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    
+}
+#trends{
+  text-align: center;
+  padding: 20px;
+  font-size: 36px;
+  color: #1F2937;
+  font-weight: 900;
+  
+}
+.container-item4{
+  background-color:#3882F6;
+  width: 80%;
+  height: 20vh;
+  margin: 5% 10%;
+  color: #FFF;
+  border-radius: 10px;
+  
+}
+.container-item4 button{
+  position: absolute;
+  border-radius: 10px;
+  border: 2px solid #d8e5f7;
+  padding: 10px 35px;
+  color: #FFF;
+  position: relative;
+  margin-bottom: 40px;
+  left: 80%;
+  bottom: 45px;
+}
+.call-action{
+ 
+   margin: 46px 200px 30px;
+}
+#call{
+  font-size: 20px;
+  font-family:Roboto;
+}
+.container-item4 p{
+  color:#E5E7EB;
+  font-size:20px;
+}
+.container-item5{
+  text-align: center;
+  padding: 30px;
+}
+.container-item5 p{
+  font-size:15px;
+}
