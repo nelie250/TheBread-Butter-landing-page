@@ -101,7 +101,7 @@ width: 600px;
     flex-direction: column;
     padding: 20px;
     background-color: #fff;
-    text-align: center;
+    text-align: start;
 }
 
 .item-content {
@@ -110,12 +110,14 @@ width: 600px;
     height: 30vh;
     border: 3px solid #3882F6;
     border-radius: 6px;
+   
   
 }
 .item-description {
     font-size: 0.95em;
     color: #555;
     line-height: 1.5;
+   justify-content: start;
 }
 
 .container-item3{
