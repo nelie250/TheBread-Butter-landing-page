@@ -8,7 +8,6 @@ This repository contains the source code for "The Daily Bread & Butter" landing 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup and Usage](#setup-and-usage)
-- [File Structure](#file-structure)
 - [Credits](#credits)
 
 ## Introduction
@@ -37,13 +36,6 @@ To view this landing page, simply follow these steps:
 
 No special server setup or build process is required, as this is a static HTML and CSS webpage.
 
-## File Structure
-
-The project directory is organized as follows:
-
-.
-├── index.html    \# The main HTML file for the landing page
-└── style.css    \# Contains all the CSS rules, including Flexbox and font styling
 
 ## Credits
 
