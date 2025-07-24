@@ -26,7 +26,6 @@ This repository contains the source code for "The Daily Bread & Butter" landing 
 -   **CSS3:** For all styling and layout (`style.css`), with a strong emphasis on Flexbox. 
 -   **Google Fonts:** To integrate the custom **Roboto** typeface.
 -   **Unsplash:** Source for the high-quality, free-to-use images.
-
 ## Setup and Usage
 
 To view this landing page, simply follow these steps:
